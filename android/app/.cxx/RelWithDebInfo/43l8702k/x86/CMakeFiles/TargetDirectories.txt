@@ -1,0 +1,2 @@
+/Users/admin/Downloads/viralbuzzCustomerApp/android/app/.cxx/RelWithDebInfo/43l8702k/x86/CMakeFiles/edit_cache.dir
+/Users/admin/Downloads/viralbuzzCustomerApp/android/app/.cxx/RelWithDebInfo/43l8702k/x86/CMakeFiles/rebuild_cache.dir
